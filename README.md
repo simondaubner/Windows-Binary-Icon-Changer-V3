@@ -18,7 +18,7 @@
 *   **Universal Compatibility:** Works on **Windows 11, Windows 10, Windows 8, and Windows 7**.
 *   **Free & Open Source:** A simpler alternative to complex tools like Resource Hacker.
 
-## ���� Download
+## Download
 
 Get the latest version from the **[Releases Page](./releases)**.
 
@@ -42,7 +42,7 @@ Did you compile a Python script to an EXE (using PyInstaller or auto-py-to-exe) 
 ### Privacy & Security
 This tool runs entirely offline. Unlike online icon converters, your binary files never leave your computer.
 
-## ���️ Compatibility
+## Compatibility
 
 This tool has been tested and verified to work on:
 *   Windows 11 (64-bit / 32-bit)
@@ -59,7 +59,7 @@ This tool has been tested and verified to work on:
 *   Modify executable resources
 *   Custom folder icons Windows 11
 
-## ���� Contributing
+## Contributing
 
 Contributions are welcome! If you want to add features like drag-and-drop support or batch processing, feel free to fork this repository and submit a Pull Request.
 
