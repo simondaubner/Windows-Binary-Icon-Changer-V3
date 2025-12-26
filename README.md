@@ -1,4 +1,4 @@
-# Windows Icon Changer v2: Free Executable (.exe) Icon Replacer
+# Windows Icon Changer v3: Free Executable (.exe) Icon Replacer
 
 ![Windows Icon Changer Banner](https://i.ibb.co/3yQzzQCn/Screenshot-2025-12-26-at-13-43-19.png)
 <!-- Replace the link above with a screenshot of your app. Name the file "windows-icon-changer-screenshot.png" before uploading for better SEO -->
