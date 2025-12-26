@@ -1,6 +1,6 @@
 # Windows Icon Changer v2: Free Executable (.exe) Icon Replacer
 
-![Windows Icon Changer Banner](https://via.placeholder.com/800x200.png?text=Windows+Icon+Changer+v2+-+Free+Download)
+![Windows Icon Changer Banner](https://i.ibb.co/3yQzzQCn/Screenshot-2025-12-26-at-13-43-19.png)
 <!-- Replace the link above with a screenshot of your app. Name the file "windows-icon-changer-screenshot.png" before uploading for better SEO -->
 
 **Windows Icon Changer v2** is a free, lightweight, and open-source utility designed to easily **change the icon of any executable (.exe) file** on Windows. Whether you are a developer looking to brand your application or a user wanting to customize your desktop aesthetics, this tool allows you to replace binary icons in seconds.
